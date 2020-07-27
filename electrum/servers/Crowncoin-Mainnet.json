@@ -1,4 +1,16 @@
 {
+    "electrumx1.crownplatform.com": {
+        "pruning": "-",
+        "s": "50002",
+        "t": "50001",
+        "version": "1.4"
+    },
+    "electrumx2.crownplatform.com": {
+        "pruning": "-",
+        "s": "50002",
+        "t": "50001",
+        "version": "1.4"
+    },
     "electrumx.multicoin.co": {
         "pruning": "-",
         "s": "50002",
